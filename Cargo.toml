@@ -1,9 +1,12 @@
 [package]
 name = "NetworkUtils"
-version = "0.0.1"
+version = "0.0.0"
 authors = ["Ahmetcan Aksu <ahmetcanco@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+description = "Colletction of network protocols implemented for Cli and Libary"
+license-file = "LICENSE"
+categories = ["command-line-utilities", "network-programming"]
+keywords = ["cli"]
+repository = "https://github.com/ahmtcn123/NetworkUtils"
+readme = "README.md"
+documentation = "https://docs.rs/wole"
